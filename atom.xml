@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-18T03:52:50.000Z</updated>
+  <updated>2016-04-18T07:01:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>UIWebView的加载本地数据的三种方式</title>
-    <link href="http://yoursite.com/2016/04/01/UIWebView%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
-    <id>http://yoursite.com/2016/04/01/UIWebView的加载本地数据的三种方式/</id>
-    <published>2016-04-01T06:00:00.000Z</published>
-    <updated>2016-04-18T03:52:50.000Z</updated>
+    <link href="http://yoursite.com/2016/04/16/UIWebView%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
+    <id>http://yoursite.com/2016/04/16/UIWebView的加载本地数据的三种方式/</id>
+    <published>2016-04-16T09:48:08.000Z</published>
+    <updated>2016-04-18T07:01:52.000Z</updated>
     
     <content type="html">&lt;hr&gt;
 &lt;blockquote&gt;
@@ -37,7 +37,7 @@
     
     </summary>
     
-      <category term="IOS" scheme="http://yoursite.com/categories/IOS/"/>
+      <category term="IOS开发" scheme="http://yoursite.com/categories/IOS%E5%BC%80%E5%8F%91/"/>
     
     
       <category term="UIWebview" scheme="http://yoursite.com/tags/UIWebview/"/>
